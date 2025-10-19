@@ -1,6 +1,6 @@
 # 🎨 TermColorX — Advanced Terminal Color, Gradient, and Animation Library
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)
 ![Python](https://img.shields.io/badge/python-%3E%3D3.13-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-yellow)
